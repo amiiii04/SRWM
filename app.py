@@ -73,4 +73,4 @@ if st.button("Tampilkan Rekomendasi"):
 
 # Footer
 st.markdown("---")
-st.caption("Sistem Rekomendasi Wisata Magelang - Dibuat oleh kamu ❤️")
+st.caption("Sistem Rekomendasi Wisata Magelang - Dibuat oleh kamu")
